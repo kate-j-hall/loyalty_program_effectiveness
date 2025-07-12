@@ -19,9 +19,9 @@ This repository analyzes the effectiveness of a loyalty program using transactio
 
 ## 📁 Repository Contents
 
-`data/` : Raw input CSV files
-`reports/` : Written summary of insights and recommendations
-`README.md/` : Project documentation
+- `data/` : Raw input CSV files
+- `reports/` : Written summary of insights and recommendations
+- `README.md/` : Project documentation
 
 ---
 
